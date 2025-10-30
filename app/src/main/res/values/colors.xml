@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_accent">#6366F1</color>
+    <color name="primary_accent_dark">#4F46E5</color>
+    <color name="primary_accent_light">#818CF8</color>
+
+    <!-- Text Colors -->
+    <color name="primary_text">#1F2937</color>
+    <color name="secondary_text">#6B7280</color>
+    <color name="error_text">#EF4444</color>
+
+    <!-- Background Colors -->
+    <color name="background_gradient">#F9FAFB</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Button Colors -->
+    <color name="button_background">#6366F1</color>
+    <color name="button_background_pressed">#4F46E5</color>
+
+    <!-- Progress Colors -->
+    <color name="progress_color">#10B981</color>
+    <color name="progress_background">#E5E7EB</color>
+
+    <!-- Achievement Colors -->
+    <color name="achievement_gold">#FCD34D</color>
+    <color name="achievement_silver">#D1D5DB</color>
+    <color name="achievement_bronze">#F59E0B</color>
+</resources>
